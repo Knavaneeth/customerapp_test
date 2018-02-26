@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "306047836229",
+    "firebase_url": "https://food-merchant.firebaseio.com",
+    "project_id": "food-merchant",
+    "storage_bucket": "food-merchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306047836229:android:d974e41635c48887",
+        "android_client_info": {
+          "package_name": "je.cuisine.je"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306047836229-oqt093mo1gveevpeaeu9ck2otlp7cq30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDjm8qRnEl1mdUk1tY5NhDpL3b_WweOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
